@@ -5,7 +5,7 @@ This project demonstrates the implementation of a recommender system using the M
 
 
 Dataset:
-The MovieLens 100k dataset is used in this project. It contains 100,000 ratings from 943 users on 1682 movies. Specifics of the dataset detailed in readme file within the "Data" folder, from the authors.
+The MovieLens 100k dataset is used in this project. It contains 100,000 ratings from 943 users on 1682 movies. Specifics of the dataset detailed in readme file within the "Data" folder, from the authors of the MovieLens 100k dataset.
 
 
 Pipeline Overview:
