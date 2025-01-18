@@ -15,14 +15,14 @@ Model Training: Train a collaborative filtering model using ALS (Alternating Lea
 Recommendation Generation: Generate personalized movie recommendations for users and identify popular movies in each genre.
 
 
-Steps
+Steps:
 1. Data Extraction
 2. Exploratory Data Analysis (EDA)
 3. Model Training
 4. Recommendation Generation
 
 
-How to Run
+How to Run:
 Clone this repository.
 Upload the dataset to Databricks.
 Run the notebook MovieRecommender.ipynb in Databricks.
